@@ -1,6 +1,6 @@
 # Chatbot Eliza - Suporte Técnico
 
-Este projeto é uma versão personalizada do chatbot Eliza, focada no **domínio de suporte técnico**. O objetivo é identificar automaticamente situações comuns enfrentadas por usuários de sistemas computacionais, como lentidão, erros, falhas de rede, e reagir com empatia e sugestões apropriadas.
+Este projeto é uma versão personalizada do chatbot Eliza, focada no **domínio de suporte técnico**.
 
 ## 💡 Domínio de Aplicação
 
